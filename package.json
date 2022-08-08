@@ -11,5 +11,14 @@
   "dependencies": {
     "git": "^0.1.5",
     "isomorphic-fetch": "^3.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayTierney/Joke-Async-Exercise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JayTierney/Joke-Async-Exercise/issues"
+  },
+  "homepage": "https://github.com/JayTierney/Joke-Async-Exercise#readme"
 }
